@@ -168,7 +168,7 @@ import {
         "Participating in code reviews and providing constructive feedback to other developers.",
       ],
     },
-  ];
+  ];  
   
   const projects = [
     {
@@ -236,4 +236,4 @@ import {
     },
   ];
   
-  export { services, technologies, experiences, testimonials, projects };
+  export { services, technologies, experiences, projects };
